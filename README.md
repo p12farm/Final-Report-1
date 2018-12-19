@@ -32,29 +32,19 @@
 * [Ο επεξεργαστής Pentium II:](https://p17kagk.github.io/gr/gallery/Pentium%20II/)
 * [Ο επεξεργαστής Pentium III:](https://p17kagk.github.io/gr/gallery/Pentium%20III/)
 
-
-
-
-
-
- 
-
-
-
-
-
-
 ##
 ### Παραδοτέο 2
 ##### Σύνδεσμοι διαδραστικών παραδειγμάτων:
-Tic Tac Toe
+ 
+* [Fullscreen HTML5 Page Background Video](https://p17kagk.github.io/gr/remix/Fullscreen-HTML5-Page-Background-Video/)
 
-Purple Rain-ish (Mouse interactive)
+* [Sign Up/Login Form](https://p17kagk.github.io/gr/remix/Sign-Up-Login-Form/)
+
 ##
 ## Εργασία ανάπτυξης
 ### Παραδοτέο 1
-Link αποθετηρίου κώδικα
-Link στο εκτελέσιμο
+* [Link αποθετηρίου κώδικα](https://github.com/p17kagk/D3js-US-educational-attainment)
+* [Link στο εκτελέσιμο](https://p17kagk.github.io/D3js-US-educational-attainment/)
 
 #### Εκπλήρωση ζητούμενων πρώτου παραδοτέου:
 ###### [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
@@ -72,7 +62,7 @@ Link στο εκτελέσιμο
 ###### [Β]: απο το link https://p17kagk.github.io/D3js-US-educational-attainment/ μπορείτε να δείτε τις αλλαγές στις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος. Οι αλλαγές έγιναν στο style.css.
 ###### [Γ]: απο το link https://p17kagk.github.io/D3js-US-educational-attainment/ μπορείτε να δείτε οτι όταν το ποντίκι διέρχεται επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας, ακούγεται κάποιος ήχος. Οι αλλαγές έγιναν στο index.html. Τα αρχεία είναι assets/media/click.mp3 και assets/media/click.ogg.
 ###### [Δ]: απο το link https://p17kagk.github.io/D3js-US-educational-attainment/ μπορείτε να δείτε οτι όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας ή περιοχή που περιλαμβάνει γραπτή πληροφορία (π.χ. κάποιο τμήμα γραφήματος), ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech). Η υλοποίηση έγινε με το script που βρίσκεται στο path: assets/scripts/sound-mouseover.js, ενώ έγιναν αλλαγές στα αρχεία index.html, και script_1.js. Για τα διαγράμματα 2 & 3 δεν υλοποιήθηκε το Text2Speech.
-###### [Ε]: απο το link https://p17kagk.github.io/D3js-US-educational-attainment/ μπορείτε να δείτε οτι εφάρμοσα responsive design στη σελίδα (Bootstrap) και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων. Οι αλλαγές έγιναν στο αρχέιο index.html.
+###### [Ε]: απο το link* https://p17kagk.github.io/D3js-US-educational-attainment/ μπορείτε να δείτε οτι εφάρμοσα responsive design στη σελίδα (Bootstrap) και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων. Οι αλλαγές έγιναν στο αρχέιο index.html.
 ###### Σημ1: Σε κάποιους browsers (πχ Chromium), για να είναι δυνατή η εκτέλεση του Text2Speech, πρέπει να γίνει προβολή του κώδικα (Ctrl + U). Αφού ανοίξουμε και κλείσουμε το νεό Tab, τότε παίζει. Δεν γνωρίζω-δυστυχώς-γιατί συμβαίνει αυτό.
 ###### Σημ2: Για περισσότερες πληροφορίες σχετικά με τα βήματα, μπορείτε να δείτε τα σχόλια στα commit changes της εργασίας.
 #
@@ -93,10 +83,10 @@ Link στο εκτελέσιμο
 ##### Το Github είναι ένα δυνατό εργαλείο όσο αφορά την δημιουργία μεγάλων projects, όπου η συνεισφορά πρέπει να είναι ομαδική και ίσως μακροχρόνια. Είδαμε στην εργασία περιεχομένου πως βήμα βήμα συνεισφέραμε στον εμπλουτισμό του βιβλίου, το οποίο είναι ένα project που μπορεί να τρέχει για χρόνια. Στη συνέχεια, διαπιστώσαμε μεσω της εργασίας ανάπτυξης, τις δυνατότητες που προσφέρει ο προγραμματισμός hmtl (με χρήση βοηθητικών αρχέιων) στην υλοποίηση διαδραστικών εφαρμογών, και το πόσο πολυ παραμετροποιήσιμα είναι τα εργαλεία αυτά. 
 #
 ## Αναφορές
-αρχική εργασία
-responsive voice
-d3 github
-Google Chart
+* [responsive voice](https://responsivevoice.org/)
+* [αρχική εργασία](https://github.com/ioniodi/D3js-US-educational-attainment)
+* [d3 github](https://github.com/d3/d3/wiki/Gallery)
+* [Google Chart](https://developers.google.com/chart/interactive/docs/gallery)
 
 
 
